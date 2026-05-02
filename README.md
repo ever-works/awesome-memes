@@ -4,7 +4,7 @@ A curated collection of popular and niche memes, each accompanied by an image an
 ## 📑 Table of Contents
 
 - [Meme (1)](#meme)
-- [Memes (2)](#memes)
+- [Memes (4)](#memes)
 
 
 ## Meme
@@ -13,7 +13,9 @@ A curated collection of popular and niche memes, each accompanied by an image an
 
 ## Memes
 
+- [Doge](https://knowyourmeme.com/memes/doge) - Doge is a slang term for 'dog' primarily associated with pictures of Shiba Inus and internal monologue captions in Comic Sans font. The meme originated from photos of Kabosu, a Shiba Inu owned by Atsuko Sato, posted in 2010. It has spawned numerous variants and remains a popular internet meme. ([Read more](/details/doge.md)) `shiba inu` `comic sans` `internet meme`
 - [Event Eve Barlow / "Eve Fartlow"](https://knowyourmeme.com/memes/event-eve-barlow-eve-fartlow) - This meme is documented on Know Your Meme, a website that archives internet memes. ([Read more](/details/event-eve-barlow-eve-fartlow.md)) `Meme`
+- [Loss](https://knowyourmeme.com/memes/loss) - Loss, also known as CADbortion, Loss.jpg and | || || |_, is an iconic four-panel comic strip from the webcomic Ctrl+Alt+Del in which the female lead suffers a miscarriage. The strip's unexpected dramatic shift from comedy to tragedy sparked widespread mockery and parody online, becoming a pervasive meme format represented by minimalist interpretations of its panels. ([Read more](/details/loss.md)) `Webcomic` `Parody` `Minimalist`
 - [Ranked Lists](https://knowyourmeme.com/memes/ranked-lists) - Ranked Lists is a phrasal template meme where users create mock rankings to highlight the futility of ranking, only to undermine their own point by placing a specific item at the top spot as the 'best'. The meme originated from a Reddit post in the /r/MarvelStudios subreddit ranking Marvel Cinematic Universe films, which concluded with 'Thor: The Dark World' as the worst. It spread widely on Twitter in June 2018 with rankings of Pixar films, X-Men, Disney princesses, and Lorde songs, gaining significant traction and media coverage. ([Read more](/details/ranked-lists.md)) `phrasal template` `Ranking` `internet meme`
 
 
