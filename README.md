@@ -3,14 +3,16 @@
 A curated collection of popular and niche memes, each accompanied by an image and a brief explanation of its meaning, origin, and humor.
 ## 📑 Table of Contents
 
-- [Meme (4)](#meme)
+- [Meme (6)](#meme)
 - [Memes (6)](#memes)
 
 
 ## Meme
 
 - [Distracted Boyfriend](https://knowyourmeme.com/memes/distracted-boyfriend) - Distracted Boyfriend, also known as Man Looking at Other Woman, is an object labeling stock photo series in which a man looks at the backside of a woman walking by while another woman, presumably his romantic partner, looks on disapprovingly. The meme originated from a stock photo taken by Antonio Guillem and posted on iStock in November 2015, gaining widespread popularity in early 2017 through social media platforms like Instagram and Twitter. ([Read more](/details/distracted-boyfriend.md)) `Image Macro` `Object Labeling` `Stock Photo`
+- [Dancing Baby](https://knowyourmeme.com/memes/dancing-baby) - The Dancing Baby, also known as Baby Cha-Cha, is a 3D-rendered animation of a baby dancing the cha-cha. Created in 1996 by Michael Girard, Robert Lurye, and John Chadwick as a showcase for 3D animation software, it became one of the first viral internet memes after being shared via email and early websites. Its simple, looped animation and uncanny valley charm captured early netizens' attention, marking a milestone in meme history. ([Read more](/details/dancing-baby.md)) `Animation` `Early Internet` `Viral`
 - [Expanding brain](https://stacker.com/stories/art-culture/50-famous-memes-and-what-they-mean) - The expanding brain meme originated in 2017 on Tumblr and 4chan, where users posted images of progressively larger brains paired with increasingly 'smart' sounding words or phrases. It illustrates the concept of intellectual escalation, often used sarcastically to mock overcomplicated thinking. ([Read more](/details/expanding-brain.md)) `Meme` `Image Macro`
+- [I Can Has Cheezburger?](https://knowyourmeme.com/memes/i-can-has-cheezburger) - The 'I Can Has Cheezburger?' meme features a picture of a fluffy cat (often a British Shorthair) with a caption written in broken English, typically 'I Can Has Cheezburger?'. Originating from a 2007 photograph posted on somethingawful.com, it became the foundation of the popular humor site ICanHasCheezburger.com, which helped launch the image macro format and lolspeak into mainstream internet culture. ([Read more](/details/i-can-has-cheezburger.md)) `Image Macro` `Cat` `Lolspeak`
 - [Leeroy Jenkins](https://en.wikipedia.org/wiki/Leeroy_Jenkins) - Leeroy Jenkins is a viral video from the MMORPG World of Warcraft where a player character charges into battle prematurely while shouting his name, resulting in the defeat of his group. The meme has come to symbolize reckless impulsiveness and is often used to humorously criticize impulsive actions or decisions. ([Read more](/details/leeroy-jenkins.md)) `World of Warcraft` `Video` `Catchphrase`
 - [Young Thug at computer](https://knowyourmeme.com/memes/young-thug-lil-durk-studio) - Young Thug at computer is a meme featuring a 2018 photograph of rappers Young Thug and Lil Durk intently staring at a computer screen in a recording studio. The image became a template for humorous speculation about what the rappers were focusing on, ranging from elaborate heists to retro video games like Minesweeper. ([Read more](/details/young-thug-at-computer.md)) `Hip Hop` `studio photo` `2018`
 
