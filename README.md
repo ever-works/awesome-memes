@@ -3,7 +3,7 @@
 A curated collection of popular and niche memes, each accompanied by an image and a brief explanation of its meaning, origin, and humor.
 ## 📑 Table of Contents
 
-- [Meme (7)](#meme)
+- [Meme (11)](#meme)
 - [Memes (11)](#memes)
 
 
@@ -15,6 +15,10 @@ A curated collection of popular and niche memes, each accompanied by an image an
 - [Finally some smart people](https://www.memedroid.com/memes/detail/3024340/Finally-some-smart-people?refGallery=tags&page=1&tag=100) - The 'Finally some smart people' meme features an image macro typically used to express sarcastic approval when someone demonstrates intelligence or common sense. Originating from a photo of a man (often identified as a stock photo), the phrase is overlaid to convey ironic praise. It is widely used in online discussions to mock low expectations. ([Read more](/details/finally-smart-people.md)) `Image Macro` `Phrasal Template` `Internet Meme`
 - [I Can Has Cheezburger?](https://knowyourmeme.com/memes/i-can-has-cheezburger) - The 'I Can Has Cheezburger?' meme features a picture of a fluffy cat (often a British Shorthair) with a caption written in broken English, typically 'I Can Has Cheezburger?'. Originating from a 2007 photograph posted on somethingawful.com, it became the foundation of the popular humor site ICanHasCheezburger.com, which helped launch the image macro format and lolspeak into mainstream internet culture. ([Read more](/details/i-can-has-cheezburger.md)) `Image Macro` `Cat` `Lolspeak`
 - [Leeroy Jenkins](https://en.wikipedia.org/wiki/Leeroy_Jenkins) - Leeroy Jenkins is a viral video from the MMORPG World of Warcraft where a player character charges into battle prematurely while shouting his name, resulting in the defeat of his group. The meme has come to symbolize reckless impulsiveness and is often used to humorously criticize impulsive actions or decisions. ([Read more](/details/leeroy-jenkins.md)) `World of Warcraft` `Video` `Catchphrase`
+- [Linguistic Fusion](https://i.redd.it/fucxa5l00fzg1.jpeg) - A meme post from r/memes titled 'Linguistic Fusion' featuring an image at https://i.redd.it/fucxa5l00fzg1.jpeg. Posted by user AndrewWarra at Unix timestamp 1778028641. ([Read more](/details/linguistic-fusion.md)) `Image` `Reddit Post`
+- [No, I won't be reading any comments.](https://i.redd.it/s6hyv4sn9gzg1.jpeg) - A meme post from r/memes titled 'No, I won't be reading any comments.' featuring an image at https://i.redd.it/s6hyv4sn9gzg1.jpeg. Posted by user Time_Owl_2589 at Unix timestamp 1778043991. ([Read more](/details/no-i-wont-be-reading-any-comments.md)) `Image` `Reddit Post`
+- [Spirit Airlines Shutting Down During Flights Be Like:](https://i.redd.it/2nmeggk7rczg1.jpeg) - A meme image depicting Spirit Airlines shutting down during flights, humorously highlighting the airline's reputation for frequent cancellations or delays. The image likely shows an airplane with a shutdown sign or similar visual gag. ([Read more](/details/spirit-airlines-shutting-down-during-flights-be-like.md)) `Image` `Reddit` `Humor`
+- [The finale we deserve](https://i.redd.it/cdzov3vfm9zg1.jpeg) - A meme post from r/memes titled 'The finale we deserve' featuring an image at https://i.redd.it/cdzov3vfm9zg1.jpeg. Posted by user ThatonerookBlchy at Unix timestamp 1777963543. ([Read more](/details/the-finale-we-deserve.md)) `Image` `Reddit Post`
 - [Young Thug at computer](https://knowyourmeme.com/memes/young-thug-lil-durk-studio) - Young Thug at computer is a meme featuring a 2018 photograph of rappers Young Thug and Lil Durk intently staring at a computer screen in a recording studio. The image became a template for humorous speculation about what the rappers were focusing on, ranging from elaborate heists to retro video games like Minesweeper. ([Read more](/details/young-thug-at-computer.md)) `Hip Hop` `studio photo` `2018`
 
 ## Memes
