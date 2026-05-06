@@ -4,7 +4,7 @@ A curated collection of popular and niche memes, each accompanied by an image an
 ## 📑 Table of Contents
 
 - [Memes (12)](#memes)
-- [Meme (11)](#meme)
+- [Meme (12)](#meme)
 
 
 ## Memes
@@ -25,6 +25,7 @@ A curated collection of popular and niche memes, each accompanied by an image an
 ## Meme
 
 - [Distracted Boyfriend](https://knowyourmeme.com/memes/distracted-boyfriend) - Distracted Boyfriend, also known as Man Looking at Other Woman, is an object labeling stock photo series in which a man looks at the backside of a woman walking by while another woman, presumably his romantic partner, looks on disapprovingly. The meme originated from a stock photo taken by Antonio Guillem and posted on iStock in November 2015, gaining widespread popularity in early 2017 through social media platforms like Instagram and Twitter. ([Read more](/details/distracted-boyfriend.md)) `Image Macro` `Object Labeling` `Stock Photo`
+- [Advice Animals](https://knowyourmeme.com/memes/advice-animals) - Advice Animals is a series of image macros featuring animals (sometimes humans) with captioned text representing a character trait or archetype. Originating from the Advice Dog meme in 2006, it became popular through meme generators and subreddits like r/AdviceAnimals. The format uses a colorful wheel background and has spawned numerous derivatives such as Business Cat, Forever Alone, and Professor Oak. It remains a staple of meme culture. ([Read more](/details/advice-animals.md)) `image macro` `advice animal` `Memes`
 - [Dancing Baby](https://knowyourmeme.com/memes/dancing-baby) - The Dancing Baby, also known as Baby Cha-Cha, is a 3D-rendered animation of a baby dancing the cha-cha. Created in 1996 by Michael Girard, Robert Lurye, and John Chadwick as a showcase for 3D animation software, it became one of the first viral internet memes after being shared via email and early websites. Its simple, looped animation and uncanny valley charm captured early netizens' attention, marking a milestone in meme history. ([Read more](/details/dancing-baby.md)) `Animation` `Early Internet` `Viral`
 - [Expanding brain](https://stacker.com/stories/art-culture/50-famous-memes-and-what-they-mean) - The expanding brain meme originated in 2017 on Tumblr and 4chan, where users posted images of progressively larger brains paired with increasingly 'smart' sounding words or phrases. It illustrates the concept of intellectual escalation, often used sarcastically to mock overcomplicated thinking. ([Read more](/details/expanding-brain.md)) `Meme` `Image Macro`
 - [Finally some smart people](https://www.memedroid.com/memes/detail/3024340/Finally-some-smart-people?refGallery=tags&page=1&tag=100) - The 'Finally some smart people' meme features an image macro typically used to express sarcastic approval when someone demonstrates intelligence or common sense. Originating from a photo of a man (often identified as a stock photo), the phrase is overlaid to convey ironic praise. It is widely used in online discussions to mock low expectations. ([Read more](/details/finally-smart-people.md)) `Image Macro` `Phrasal Template` `Internet Meme`
