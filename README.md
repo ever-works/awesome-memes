@@ -3,7 +3,7 @@
 A curated collection of popular and niche memes, each accompanied by an image and a brief explanation of its meaning, origin, and humor.
 ## 📑 Table of Contents
 
-- [Memes (12)](#memes)
+- [Memes (13)](#memes)
 - [Meme (17)](#meme)
 
 
@@ -20,6 +20,7 @@ A curated collection of popular and niche memes, each accompanied by an image an
 - [Madame Web](https://en.wikipedia.org/wiki/Madame_Web_(film)) - Marvel's widely panned superhero movie starring Dakota Johnson as a clairvoyant paramedic became a meme due to a clunky line from its trailer: 'He was in the Amazon with my mom when she was researching spiders right before she died.' The line turned into a copypasta meme, and the film's overall bizarre press tour fueled its popularity as a 'so bad it's good' internet phenomenon. ([Read more](/details/madame-web.md)) `Movie` `Copypasta` `Marvel`
 - [Parked Domain Girl](https://knowyourmeme.com/memes/parked-domain-girl) - A stock photo of a young blonde college woman uploaded to iStockphoto in 2005 by Dustin Steller. The image is used by Demand Media for parked domain pages and has become a viral picture, spawning numerous parodies and photoshop variations. ([Read more](/details/parked-domain-girl.md)) `stock photo` `viral image` `Photoshop`
 - [Ranked Lists](https://knowyourmeme.com/memes/ranked-lists) - Ranked Lists is a phrasal template meme where users create mock rankings to highlight the futility of ranking, only to undermine their own point by placing a specific item at the top spot as the 'best'. The meme originated from a Reddit post in the /r/MarvelStudios subreddit ranking Marvel Cinematic Universe films, which concluded with 'Thor: The Dark World' as the worst. It spread widely on Twitter in June 2018 with rankings of Pixar films, X-Men, Disney princesses, and Lorde songs, gaining significant traction and media coverage. ([Read more](/details/ranked-lists.md)) `phrasal template` `Ranking` `internet meme`
+- [Reddit top 1k memes](https://www.kaggle.com/datasets/hoangziet/reddit-top-1k-memes) - A dataset containing the top 980 posts from the r/memes subreddit on Reddit, collected via the PRAW API. It includes meme images in various formats (JPG, JPEG, PNG, GIF) and detailed metadata for each post, enabling analysis of meme content, training AI models for meme generation, and NLP or computer vision research. ([Read more](/details/reddit-top-1k-memes.md)) `Classification` `NLP` `Computer Vision`
 - [Saugeen Stripper](https://knowyourmeme.com/memes/saugeen-stripper) - A 2005 incident where an 18-year-old woman performed a striptease at a birthday party in a dorm room at Saugeen-Maitland Hall, University of Western Ontario. Photos of the event spread online, sparking media coverage and discussion about campus privacy and party culture. ([Read more](/details/saugeen-stripper.md)) `Canada` `Party` `photograph scandal`
 
 ## Meme
