@@ -64,6 +64,10 @@ A curated collection of popular and niche memes, each accompanied by an image an
 - [Success Kid](https://en.wikipedia.org/wiki/Success_Kid) - Success Kid is an Internet meme featuring a baby clenching a fistful of sand with a determined facial expression. Originating from a 2007 Flickr photo, it evolved from the 'I Hate Sandcastles' meme to represent small personal victories and good fortune. The image has been licensed for commercial use and used in notable campaigns, including a White House immigration reform tweet and a GoFundMe for the subject's father's kidney transplant. ([Read more](/details/success-kid.md)) `Internet Meme` `Baby` `Success`
 
 
+## ⭐ Star History
+
+[![Star History Chart](https://stats-github.ever.works/svg?repos=ever-works/awesome-memes&type=Date)](https://stats-github.ever.works/#ever-works/awesome-memes&Date)
+
 ## ™️ Legal
 
 All product names, logos, and brands are the property of their respective owners. All company, product, and service names used in this repository, related repositories, and associated websites are for identification purposes only. The use of these names, logos, and brands does not imply endorsement, affiliation, or sponsorship.
